@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.outputDisplay {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+button {
+  align-self: center;
+}
